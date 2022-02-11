@@ -13,7 +13,7 @@ import com.google.android.youtube.player.YouTubePlayer
 import com.google.android.youtube.player.YouTubePlayerView
 
 const val YOUTUBE_VIDEO_ID="ic1l36GrNOU"
-const val YOUTUBE_PLAYLIST="RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA&start_radio=1&rv=ic1l36GrNOU"
+const val YOUTUBE_PLAYLIST="aQatrXw0njs&list=PLUcsbZa0qzu1uDiwQBjJew9mE2BxowIiu"
 
 class YoutubeActivity : YouTubeBaseActivity(),YouTubePlayer.OnInitializedListener {
     val TAG="YouTubeActivity"
